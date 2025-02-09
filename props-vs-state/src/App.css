@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+}
+.search{
+  display: flex;
+  justify-content: center;
+}
+.product{
+  display: flex;
+  justify-content: center;
+}
+

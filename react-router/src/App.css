@@ -1,0 +1,36 @@
+#root {
+  /* max-width: 1280px; */
+  width: 100vw;
+  height: 100vh;
+  margin: 0 ;
+  padding: 0;
+  text-align: center;
+}
+
+.navbar ul {
+list-style-type: none;
+padding: 5px;
+}
+
+.active{
+  color: red;
+}
+p{
+  font-size: 40px;
+  color: aqua;
+
+}
+.navbar {
+
+  width: 100%;
+
+background-color: aqua;
+  top: 0;
+  display: flex;
+ 
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+
